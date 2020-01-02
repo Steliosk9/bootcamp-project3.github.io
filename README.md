@@ -1,3 +1,13 @@
+
+### Track Your expenses & Subscriptions 
+
+With so many subcriptions and auto payments it's difficilt to keep track of our monthly expenses.
+Our salary disappears and we don't really know what hapend at the end of the month and our checking 
+account is on the limit again . With this app we can add the most of expenses so to have a clear view 
+of what happened and where we spend the most of the money .
+
+
+
 Pages:
     Create login - allows new user to choose username and password
     Login - allows user to enter username and password and continue to homepage
@@ -11,9 +21,6 @@ Components:
 
     Data entry - allows user to enter new financial data
         date, category, vendor, amount spent
-
-
-
 
 
 
